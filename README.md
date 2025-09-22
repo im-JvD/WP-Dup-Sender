@@ -70,3 +70,10 @@ ___
 
 **3. بکاپ‌گیری**
 - بعد از هر بکاپ‌گیری توسط **` Duplicator `** ، افزونه فایل‌ها را فشرده و به مسیر مقصد انتقال داده و **لینک دانلود را به تلگرام** ارسال می‌کند.
+
+‌
+## 💰 حمایت‌ مالی از این پروژه 
+
+<a href="https://www.coffeebede.com/mohamadjavadkarimi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+‌
+‌
