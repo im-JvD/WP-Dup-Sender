@@ -74,6 +74,13 @@ ___
 ‌
 ## 💰 حمایت‌ مالی از این پروژه 
 
+#### حمایت ریالی ...
 <a href="https://www.coffeebede.com/mohamadjavadkarimi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 ‌
+
+#### حمایت ارزی ... **`‌ USDT ‌` - `‌ TRC20 ‌`**
+
+```
+TAcqHu8qXDGFuKit7LnFRRryQuTfHd89no
+```
 ‌
