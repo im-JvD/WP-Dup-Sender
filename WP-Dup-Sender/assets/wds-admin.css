@@ -1,0 +1,16 @@
+
+/* wds-admin.css */
+.wds-wrap{max-width:1100px;margin:20px auto;font-family:system-ui, -apple-system, "Segoe UI", Roboto, Arial;color:#222}
+.wds-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}
+.wds-btn-primary{background:linear-gradient(90deg,#2563eb,#06b6d4);color:#fff;border:none;padding:8px 14px;border-radius:8px;cursor:pointer}
+.wds-nav{display:flex;gap:10px;margin-bottom:12px}
+.wds-tab-link{padding:8px 12px;border-radius:8px;background:#f1f5f9;cursor:pointer}
+.wds-tab-link.active{background:#1e73be;color:#fff}
+.wds-panel{display:none;padding:12px;background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.04)}
+.wds-panel.active{display:block}
+.wds-table{width:100%;border-collapse:collapse}
+.wds-table th,.wds-table td{padding:8px;border-bottom:1px solid #eee;text-align:left}
+.wds-desc{color:#666;font-size:13px}
+.wds-note{color:#475569;margin-top:8px}
+.wds-btn{background:transparent;border:1px solid #e2e8f0;padding:6px 10px;border-radius:8px;cursor:pointer;color:#111;display:inline-block;margin-left:6px}
+.wds-submit{background:linear-gradient(90deg,#2563eb,#06b6d4);color:#fff;border:none;padding:8px 14px;border-radius:8px;cursor:pointer}
