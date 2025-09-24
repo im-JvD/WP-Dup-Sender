@@ -6,9 +6,17 @@
 
 ‌
 <p align="center">
-  <img src="" width="1080px" />
+  <img src="https://github.com/im-JvD/WP-Dup-Sender/blob/main/Pic/ShowMessage.jpg" width="720px" />
 </p>
 
+‌
+## پیش‌نمایش افزونه 
+- <b><a href="https://github.com/im-JvD/WP-Dup-Sender/blob/main/Pic/Dashboard.jpg" > داشبورد افزونه </a></b>
+- <b><a href="https://github.com/im-JvD/WP-Dup-Sender/blob/main/Pic/BotSettings.jpg" > تنظیمات ربات و گروه </a></b>
+- <b><a href="https://github.com/im-JvD/WP-Dup-Sender/blob/main/Pic/MessageTemp.jpg" > تنظیم فرمت پیام‌های ارسالی </a></b>
+- <b><a href="https://github.com/im-JvD/WP-Dup-Sender/blob/main/Pic/SendMessage.jpg" > ارسال پیام عمومی </a></b>
+
+‌
 ___
 
 ‌
