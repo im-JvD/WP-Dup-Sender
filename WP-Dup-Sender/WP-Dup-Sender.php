@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:        WP Dup Sender
-Plugin URI:         https://mohamadjavadkarimi.ir/
+Plugin URI:         https://github.com/im-JvD/WP-Dup-Sender
 Description:        با این افزونه می‌توانید بصورت دستی و خودکار تمامیه بسته ‌های نصبی آسان که توسط افزونه Duplicator تهییه شده را به تاپیک‌گروه تلگرامی خود توسط ربات تلگرامی ارسال نمایید .
 Version:            1.3.1
 Author:             محمد جواد کریمی
